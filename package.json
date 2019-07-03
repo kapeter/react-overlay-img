@@ -1,5 +1,5 @@
 {
-  "name": "react-overlay-img",
+  "name": "react-overlay-mask",
   "version": "1.0.0",
   "description": "react图片懒加载组件",
   "main": "src/index.js",
