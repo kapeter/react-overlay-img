@@ -37,7 +37,7 @@ module.exports = {
         loader: 'url-loader',
         options: {
           limit: 10000,
-          name: 'img/[name].[ext]'
+          name: '[name].[ext]'
         }
       },
       {
@@ -45,7 +45,7 @@ module.exports = {
         loader: 'url-loader',
         options: {
           limit: 10000,
-          name: 'img/[name].[ext]'
+          name: '[name].[ext]'
         }
       }
     ]
